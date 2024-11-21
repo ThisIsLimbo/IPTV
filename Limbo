@@ -13,8 +13,9 @@ https://ythls.armelin.one/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@DENS_TV",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7W4Z8DC/indosiar.png" group-title="SHAREEXT@MPD~LOKAL_ottNavigator", Indosiar
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:-1 tvg-id="" group-title="EVENT | PIALA PRESIDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",INDOSIAR 1 (1080p) NEW SERVER
+http://xtv.ooo:8080/321166661/52816191/350972
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GHzKmTK/Gtv.png" group-title="SHAREEXT@MPD~LOKAL_ottNavigator",GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
