@@ -31,8 +31,9 @@ https://flv.intechmedia.net/live/ch108.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="News",Kompas TV
 https://ythls.armelin.one/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
 
-#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="Undefined",NET TV
-https://ythls.armelin.one/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", NET TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch114.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VHVBwhJ/MNCTV.png" group-title="SHAREEXT@MPD~LOKAL_ottNavigator",MNC TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
