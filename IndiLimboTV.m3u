@@ -1,0 +1,66 @@
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="General",Trans 7
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="General",Trans TV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="General",Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ythls.armelin.one/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
+
+#EXTINF:-1 group-title="General" tvg-id="tvOne.id" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",tvOne
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="General",SCTV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTINF:-1 group-title="General" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GHzKmTK/Gtv.png" group-title="General",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://1a-gtv.rctiplus.id/gtv-sdi.mpd
+
+#EXTINF:-1 group-title="General" tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="General",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ythls.armelin.one/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://images.indihometv.com/logo_net_ver1.png",NET.
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VHVBwhJ/MNCTV.png" group-title="General",MNC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
+
+#EXTINF:-1 group-title="General" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvri.png",TVRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 group-title="General"  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",Maxstream
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="General",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://1a-rcti.rctiplus.id/rcti-sdi.mpd
