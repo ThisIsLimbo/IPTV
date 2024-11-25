@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_transtv_ver1.png" group-title="General",Trans TV
+#EXTINF:-1  tvg-logo="https://iptv.urfan.id/logo/transtv.png" group-title="General",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
